@@ -4,8 +4,7 @@
   "description": "Rest API for Social Media App",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/caflores31/supreme-spoon/issues"
   },
-  "homepage": "https://github.com/caflores31/supreme-spoon#readme"
+  "homepage": "https://github.com/caflores31/supreme-spoon#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.3"
+  }
 }

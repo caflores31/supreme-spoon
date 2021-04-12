@@ -1,0 +1,24 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "Rest API for Social Media App",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caflores31/supreme-spoon.git"
+  },
+  "keywords": [
+    "api",
+    "nosql"
+  ],
+  "author": "CFA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caflores31/supreme-spoon/issues"
+  },
+  "homepage": "https://github.com/caflores31/supreme-spoon#readme"
+}

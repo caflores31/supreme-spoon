@@ -64,7 +64,6 @@ Delete a reaction: DELETE /api/thoughts/:id/reactions
 ## Repository
 
 Github link -> https://github.com/caflores31/supreme-spoon
-Github Issues -> https://github.com/caflores31/supreme-spoon/issues
 
 ## Questions
 
